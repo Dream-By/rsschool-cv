@@ -57,7 +57,7 @@ Environment:
  - 	AVD Manager, Genymotion.
 
 Android Developer: Developing Weather App “WeatherGo” on Android using Java.
-Team Size: Developer, QA, Designer.
+Team Size: Developer, QA.
 Project Role: PM, BA, Developer, QA.
 Tasks performed:
  - analyze requirements.
