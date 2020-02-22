@@ -10,7 +10,7 @@ A forward-thinking creative delivery manager and multi developer offering more t
 •	Created fully functional applications for Android devices.
 •	Known in the interaction between various devices and versions of Android.
 •	Create Android applications (game, media, tools) with validation gradle scripts.
-•	Participate in fast-paced development cycles; have completed 100% of deadlines ahead of schedule.
+
 
 ##### Skills
 
