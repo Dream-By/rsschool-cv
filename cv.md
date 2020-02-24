@@ -1,8 +1,6 @@
 ##### Dzmitry, Dzianisau
 ##### Contact Info: 
- - tel.:+375296627422
- - e-mail: dzmitry.dzianisau@gmail.com
- - skype: gomelfm
+ - https://github.com/Dream-By
 
 ##### Summary
 A forward-thinking creative delivery manager and multi developer offering more than ten years of experience building, integrating, testing, and supporting Desktop & Mobile applications for some devices on the different platforms.
